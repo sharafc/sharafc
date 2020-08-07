@@ -1,9 +1,20 @@
 ## Hi there!  My name is Christian 👋
 
-### I am a Twindad, husband, can opener for two Coonies, Webdeveloper and Coffee addict
-- 🔭 I’m currently working on a personal 11ty Blog 
-- 🌱 I’m currently learning PHP, React and lots of Web technology I missed the last years 
-- 👯 I’m looking to collaborate with web developers, gamers, content creators... Short: all you awesome people.
+#### I am a:
+- Dad of Twins
+- Husband
+- Can opener for two Coonies
+- Webdeveloper
+- Gaming Geek
+- Coffee addict
+
+### ✨ What keeps my mind wandering 
+- 🔭 Working on a personal 11ty Blog while learning how this JAMstack thingy works
+- 🌱 Learning PHP, React and lots of Web technology I missed the last years 
+- 🚐 Writing content for my travel blog
+- 💡 Stupid idea of trying out a pod/vidcast about my workinglife experiences so far
+- 👤 Not thriving in Chaos
+- 👯 Looking forward to collaborate with web developers, gamers, content creators... Short: all you awesome people!
 - 🥅 Goals 2020: Learn which was lost
 
 
@@ -21,7 +32,10 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+<img align="left" alt="11ty" width="26px" src="https://www.11ty.dev/img/logo.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+
+
 <br>
 
 <!--
