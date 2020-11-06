@@ -1,3 +1,5 @@
+<img src="./banner.jpg" />
+
 ## Hi there!  My name is Christian 👋
 
 #### I am a:
@@ -8,7 +10,7 @@
 - Gaming Geek
 - Coffee addict
 
-### ✨ What keeps my mind wandering 
+### ✨ What keeps my mind wandering: 
 - 🔭 Working on a [personal 11ty Dev Blog](https://sharafc.netlify.com) while learning how this JAMstack thingy works
 - 🌱 Learning PHP, React and lots of Web technology I missed the last years 
 - 🚐 Writing content for [my travel blog](https://mani-im-sharaffenland.de)
@@ -25,7 +27,7 @@
 <br>
 
 
-### Knowledge in:
+### 💡 Knowledge in:
 <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" /> <img alt="Markdown" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-330f63.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 
 
