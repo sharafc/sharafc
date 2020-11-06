@@ -9,6 +9,7 @@
 - Webdeveloper
 - Gaming Geek
 - Coffee addict
+- Part time Lunatic
 
 ### ✨ What keeps my mind wandering: 
 - 🔭 Working on a [personal 11ty Dev Blog](https://sharafc.netlify.com) while learning how this JAMstack thingy works
@@ -35,6 +36,10 @@
 
 
 <img alt="IndelliJ IDE" src="https://img.shields.io/badge/intellij%20ide-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img alt="Firefox" src="https://img.shields.io/badge/firefox-FF7139.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white" /> <img alt="Chrome" src="https://img.shields.io/badge/chrome-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /> <img alt="Brave" src="https://img.shields.io/badge/brave-FB542B.svg?&style=for-the-badge&logo=brave&logoColor=white" />
+
+<br><br>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=sharafc.sharafc)
 
 
 <!--
