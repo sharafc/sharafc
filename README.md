@@ -19,7 +19,7 @@
 - 👤 Not thriving in Chaos
 - 👯 Looking forward to collaborate with web developers, gamers, content creators... Short: all you awesome people!
 - 🥅 Goals 2021: Learn which was lost. Be a good Dad!
-
+<br>
 
 ### 📫 Connect with me on my journey:
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
@@ -28,6 +28,12 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg">][linkedin]
 <br>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://sharafc.netlify.app/blog)
+<br>
 
 ### 💡 Some of the knowledge gained exploring*:
 <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="JSON" src="https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white" /> <img alt="Yarn" src="https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" /> <img alt="Markdown" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> <img alt="GraphQL" src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
