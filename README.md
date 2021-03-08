@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pimp my GitHub profile](https://sharafc.netlify.app/blog/2021/pimp-my-github-profile/)
 - [CSS architecture | OOCSS, SMACSS, BEM, ITCSS? - Part II](https://sharafc.netlify.app/blog/2021/css-architecture-decisions/)
 - [CSS architecture | OOCSS, SMACSS, BEM, ITCSS? - Part I](https://sharafc.netlify.app/blog/2021/css-architecture/)
 - [Temporal Dead Zone in JavaScript](https://sharafc.netlify.app/blog/2020/temporal-dead-zone/)
 - [Diving into CSS display modes](https://sharafc.netlify.app/blog/2020/css-display-modes/)
-- [Disable GitHub Pages for legacy projects](https://sharafc.netlify.app/blog/2020/disable-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://sharafc.netlify.app/blog)
 <br>
