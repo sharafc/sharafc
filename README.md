@@ -37,7 +37,7 @@
 - [Temporal Dead Zone in JavaScript](https://sharafc.netlify.app/blog/2020/temporal-dead-zone/)
 - [Diving into CSS display modes](https://sharafc.netlify.app/blog/2020/css-display-modes/)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://sharafc.netlify.app/blog)
+➡️ [more blog posts...](https://www.christian-sharaf.de/blog)
 <br>
 
 ### 💡 Some of the knowledge gained exploring*:
