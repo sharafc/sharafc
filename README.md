@@ -13,12 +13,12 @@
 
 ### ✨ What keeps my mind wandering:
 - 🔭 Working on a [personal 11ty Dev Blog](https://sharafc.netlify.com) while learning how this Jamstack thingy works
-- 🌱 Learning PHP, React and lots of Web technology I missed the last years
+- 🌱 Learning lots of (Web) technology I challenged myself with
 - 🚐 Writing content for [my travel blog](https://mani-im-sharaffenland.de)
 - 💡 Stupid idea of trying out a pod/vidcast about my workinglife experiences so far
 - 👤 Not thriving in Chaos
 - 👯 Looking forward to collaborate with web developers, gamers, content creators... Short: all you awesome people!
-- 🥅 Goals 2021: Learn which was lost. Be a good Dad!
+- 🥅 <s>Goals 2021: Learn which was lost. Be a good Dad!</s>
 <br>
 
 ### 📫 Connect with me on my journey:
