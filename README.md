@@ -18,7 +18,7 @@
 - 💡 Stupid idea of trying out a pod/vidcast about my workinglife experiences so far
 - 👤 Not thriving in Chaos
 - 👯 Looking forward to collaborate with web developers, gamers, content creators... Short: all you awesome people!
-- 🥅 <s>Goals 2021: Learn which was lost. Be a good Dad!</s>
+- 🥅 Goals 2021: <s>Find a new professional challenge.</s> Be a good Dad!
 <br>
 
 ### 📫 Connect with me on my journey:
