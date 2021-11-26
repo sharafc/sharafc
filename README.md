@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pimp my Powershell - Use PSColor, Oh My Posh and Posh Git to color up your life](https://sharafc.netlify.app/blog/2021/pimp_my_powershell/)
 - [Pimp my GitHub profile](https://sharafc.netlify.app/blog/2021/pimp-my-github-profile/)
 - [CSS architecture | OOCSS, SMACSS, BEM, ITCSS? - Part II](https://sharafc.netlify.app/blog/2021/css-architecture-decisions/)
 - [CSS architecture | OOCSS, SMACSS, BEM, ITCSS? - Part I](https://sharafc.netlify.app/blog/2021/css-architecture/)
 - [Temporal Dead Zone in JavaScript](https://sharafc.netlify.app/blog/2020/temporal-dead-zone/)
-- [Diving into CSS display modes](https://sharafc.netlify.app/blog/2020/css-display-modes/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://www.christian-sharaf.de/blog)
 <br>
