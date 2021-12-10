@@ -12,7 +12,7 @@
 - Part time Lunatic
 
 ### ✨ What keeps my mind wandering:
-- 🔭 Working on a [personal 11ty Dev Blog](https://sharafc.netlify.com) while learning how this Jamstack thingy works
+- 🔭 Working on a [personal 11ty Dev Blog](https://www.christian-.sharaf.de) while learning how this Jamstack thingy works
 - 🌱 Learning lots of (Web) technology I challenged myself with
 - 🚐 Writing content for [my travel blog](https://mani-im-sharaffenland.de)
 - 💡 Stupid idea of trying out a pod/vidcast about my workinglife experiences so far
