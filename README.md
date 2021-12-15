@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-Functional Requirements](https://www.christian-sharaf.de/blog/2021/non_functional_requirements/)
 - [Pimp my Powershell - Use PSColor, Oh My Posh and Posh Git to color up your life](https://www.christian-sharaf.de/blog/2021/pimp_my_powershell/)
 - [Pimp my GitHub profile](https://www.christian-sharaf.de/blog/2021/pimp-my-github-profile/)
 - [CSS architecture | OOCSS, SMACSS, BEM, ITCSS? - Part II](https://www.christian-sharaf.de/blog/2021/css-architecture-decisions/)
 - [CSS architecture | OOCSS, SMACSS, BEM, ITCSS? - Part I](https://www.christian-sharaf.de/blog/2021/css-architecture/)
-- [Temporal Dead Zone in JavaScript](https://www.christian-sharaf.de/blog/2020/temporal-dead-zone/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://www.christian-sharaf.de/blog)
 <br>
